@@ -1,0 +1,13 @@
+body {
+  background-image: url(images/fondito.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "nunito";
+  display: flex;
+  justify-content: center;
+}
+
+}
+.Cuerpo {
+  background-color: #fefae0;
+}
