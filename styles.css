@@ -88,3 +88,6 @@ img {
   display: none;
   right: 20px;
 }
+.texto {
+  text-align: left;
+}
